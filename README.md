@@ -34,7 +34,7 @@ The main goal of this dashboard is to:
 ---
 
 ## Dataset
-<a href="https://www.linkedin.com/in/shruti-khandelwal-05a61b2b4" target="_blank">Dataset</a>
+<a href="https://github.com/Shruti-131202/Customer_Insights_Dashboard/blob/main/Customer_Insights.csv">Dataset</a>
 
 
 ## 🎯 Use Cases
