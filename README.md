@@ -34,8 +34,7 @@ The main goal of this dashboard is to:
 ---
 
 ## Dataset
-<a href="https://github.com/Shruti-131202/Customer_Insights_Dashboard/blob/main/Customer_Insights.csv">Dataset</a>
-
+- <a href="https://github.com/Shruti-131202/Customer_Insights_Dashboard/blob/main/Customer_Insights.csv">Dataset</a>
 
 ## 🎯 Use Cases
 
@@ -49,7 +48,10 @@ This dashboard can be helpful for:
 ---
 
 ## 📷 Dashboard Preview
-<a href="https://github.com/Shruti-131202/Customer_Insights_Dashboard/blob/main/Customer_Insight.pbit">Customer_Insight_Dashboard</a>
-
+- <a href="https://github.com/Shruti-131202/Customer_Insights_Dashboard/blob/main/Customer_Insight.pbit">Customer_Insight_Dashboard</a>
+- <a href="https://github.com/Shruti-131202/Customer_Insights_Dashboard/blob/main/Sales.jpg">Sales</a>
+- <a href="https://github.com/Shruti-131202/Customer_Insights_Dashboard/blob/main/Product.jpg">Product</a>
+- <a href="https://github.com/Shruti-131202/Customer_Insights_Dashboard/blob/main/Customer.jpg">Customer Segmentation</a>
+- <a href="https://github.com/Shruti-131202/Customer_Insights_Dashboard/blob/main/Return.jpg">Return & Refund</a>
   
 
