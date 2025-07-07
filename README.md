@@ -34,6 +34,7 @@ The main goal of this dashboard is to:
 ---
 
 ## Dataset
+<a href="https://www.linkedin.com/in/shruti-khandelwal-05a61b2b4" target="_blank">Dataset</a>
 
 
 ## 🎯 Use Cases
@@ -48,6 +49,7 @@ This dashboard can be helpful for:
 ---
 
 ## 📷 Dashboard Preview
+<a href="https://www.linkedin.com/in/shruti-khandelwal-05a61b2b4" target="_blank">Customer_Insight_Dashboard</a>
 
   
 
