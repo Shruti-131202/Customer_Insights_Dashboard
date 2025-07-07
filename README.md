@@ -1,2 +1,53 @@
 # Customer_Insights_Dashboard
-A Power BI template designed to analyze customer data and uncover actionable business insights. This dashboard focuses on customer segmentation, behavior analysis, purchase trends, and retention to help businesses improve marketing strategies and customer engagement.
+his Power BI project is focused on analyzing customer data to derive actionable insights. It helps businesses understand their customers better through segmentation, behavioral analysis, purchase patterns, and overall customer performance metrics.
+
+---
+
+## 📌 Objective
+
+The main goal of this dashboard is to:
+- Segment customers based on behavior and frequency
+- Identify purchase trends and popular product categories
+- Measure new vs. returning customer performance
+- Provide data-driven insights to improve customer retention and marketing strategies
+
+---
+
+## 💡 Key Insights Included
+
+- 🔹 Total Customers, New vs. Returning
+- 🔹 Average Purchase Value
+- 🔹 Customer Lifetime Value (CLTV)
+- 🔹 Top Products by Customer Preference
+- 🔹 Repeat Purchase Rate
+- 🔹 Customer Demographics (if available)
+- 🔹 Dynamic Filtering by Category, Region, Time
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Power BI Desktop** – for data modeling and dashboard creation  
+- **DAX** – for custom calculations and KPIs  
+- **Microsoft Excel** – for initial data manipulation
+
+---
+
+## Dataset
+
+
+## 🎯 Use Cases
+
+This dashboard can be helpful for:
+- E-commerce platforms
+- Retail businesses
+- Marketing teams
+- CRM Analysts
+- Business intelligence professionals
+
+---
+
+## 📷 Dashboard Preview
+
+  
+
