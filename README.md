@@ -49,7 +49,7 @@ This dashboard can be helpful for:
 ---
 
 ## 📷 Dashboard Preview
-<a href="https://www.linkedin.com/in/shruti-khandelwal-05a61b2b4" target="_blank">Customer_Insight_Dashboard</a>
+<a href="https://github.com/Shruti-131202/Customer_Insights_Dashboard/blob/main/Customer_Insight.pbit">Customer_Insight_Dashboard</a>
 
   
 
