@@ -1,5 +1,5 @@
 # Customer_Insights_Dashboard
-his Power BI project is focused on analyzing customer data to derive actionable insights. It helps businesses understand their customers better through segmentation, behavioral analysis, purchase patterns, and overall customer performance metrics.
+This Power BI project is focused on analyzing customer data to derive actionable insights. It helps businesses understand their customers better through segmentation, behavioral analysis, purchase patterns, and overall customer performance metrics.
 
 ---
 
